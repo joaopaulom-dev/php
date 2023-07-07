@@ -1,6 +1,6 @@
 <?php
 //Simple HTML DOM
-require '../../inc/dom_parser/simple_html_dom.php';
+require '../../inc/simple_html_dom.php';
 
 //URL
 $url = 'https://www.facebook.com/fiatmavel';
